@@ -1,4 +1,6 @@
-public class Cavalier extends Simple{
+package Exercice1;
+
+public class Cavalier extends Simple {
 
     private int charge;
     private int chargeMaximale;
