@@ -1,4 +1,6 @@
-public class Brancardier extends Simple{
+package Exercice1;
+
+public class Brancardier extends Simple {
 
     private int charge;
     private int chargeMaximale;

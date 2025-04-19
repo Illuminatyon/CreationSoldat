@@ -1,4 +1,6 @@
-public class Simple extends Soldat{
+package Exercice1;
+
+public class Simple extends Soldat {
 
     public Simple(String nom, int poids) {
         super(nom, poids);

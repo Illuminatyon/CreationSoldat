@@ -1,3 +1,5 @@
+package Exercice1;
+
 public class Soldat {
 
     private String nom;
