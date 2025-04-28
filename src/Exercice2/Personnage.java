@@ -14,7 +14,6 @@ public class Personnage {
         /*
         On peut ajouter des conditions concernant les points de vie ou bien les points d'attaques
          */
-        ;
         this.arme = arme;
         this.nom = nom;
         this.PV = PV;
